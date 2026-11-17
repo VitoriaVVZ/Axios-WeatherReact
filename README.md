@@ -13,7 +13,7 @@ Aplicação desenvolvida em React para consulta de previsão do tempo em tempo r
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/VitoriaVVZ/Axios-WeatherReact.git](https://github.com/VitoriaVVZ/Axios-WeatherReact.git)
+   git clone [https://github.com/VitoriaVVZ/Axios-WeatherReact.git]
    ```
 
 2. **Acesse a pasta do projeto:**
